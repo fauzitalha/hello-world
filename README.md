@@ -1,2 +1,4 @@
 # hello-world
-Helloworld project
+Helloworld project.
+This is the Lutaaya's first GIT project.
+Hope is okay
